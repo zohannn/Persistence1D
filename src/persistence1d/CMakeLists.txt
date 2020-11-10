@@ -1,1 +1,0 @@
-add_executable (persistence1d_driver  persistence1d_driver.cpp persistence1d.hpp) 

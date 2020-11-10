@@ -1,27 +1,35 @@
-build*
-#ignore thumbnails created by windows
-Thumbs.db
-#Ignore files build by Visual Studio
-*.obj
-*.exe
-*.pdb
 *.user
-*.aps
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.so
+
+# Precompiled Headers
+*.gch
 *.pch
-*.vspscc
-*_i.c
-*_p.c
-*.ncb
-*.suo
-*.tlb
-*.tlh
-*.bak
-*.cache
-*.ilk
-*.log
-[Bb]in
+
+# Compiled Dynamic libraries
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
 *.lib
-*.sbr
-obj/
-_ReSharper*/
-[Tt]est[Rr]esult*
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Folders
+build/
+
+

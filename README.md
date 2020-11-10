@@ -14,3 +14,16 @@ Institute for Informatics, Saarbrücken, Germany.
 You may use it as you wish, it is in the public domain. If you find it useful, 
 it would be nice to hear from you. Just drop us a line.
 
+## Build
+
+```Bash
+git clone https://github.com/zohannn/Persistence1D.git
+cd Persistence1D
+mkdir build
+cd build
+cmake -DCMAKE_BUILD_TYPE=Debug ..
+make
+cmake -DCMAKE_BUILD_TYPE=Release ..
+make
+```
+
