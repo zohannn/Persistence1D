@@ -1,3 +1,4 @@
+# Persistence1D
 Persistence1D is a class for finding local extrema and their persistence 
 in one-dimensional data. Local minima and local maxima are extracted, 
 paired, and sorted according to their persistence.
@@ -9,7 +10,7 @@ The download package comes with extensive documentation and examples.
 Project homepage: http://www.mpi-inf.mpg.de/~weinkauf/notes/persistence1d.html
 
 Persistence1D has been written by Yeara Kozlov and Tino Weinkauf, Max Planck 
-Institute for Informatics, Saarbrücken, Germany. 
+Institute for Informatics, SaarbrÃ¼cken, Germany. 
 
 You may use it as you wish, it is in the public domain. If you find it useful, 
 it would be nice to hear from you. Just drop us a line.
